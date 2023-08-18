@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.card{
+	margin:0px 30px 0px 30px;
+	widht:350px;
+	height:600px;
+	border:1px solid black;
+	background:gray;
+	border:1px solid gray;
+}
+img{
+	width:400px;
+	margin-top:20px
+}
+button{
+	background:red;
+	border:0px darkred:
+	padding:40px;
+	font-size:25px;
+	border-radius:10px;
+}
